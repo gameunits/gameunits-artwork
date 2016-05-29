@@ -1,4 +1,4 @@
-#GameUnits Logo
+#GameUnits Logos & Artwork
 ================================
 Copyright (c) 2016-2017 GameUnits Developers<br>
 
@@ -9,7 +9,7 @@ Copyright (c) 2016-2017 GameUnits Developers<br>
 ![GameUnits](https://raw.githubusercontent.com/gameunits/gameunits-logos/master/100x100-grey.png)
 ![GameUnits](https://raw.githubusercontent.com/gameunits/gameunits-logos/master/100x100-lady.png)
 
-#Artwork and Banners
+#Artwork and Banners :
 ![GameUnits](https://raw.githubusercontent.com/gameunits/gameunits-logos/master/artwork.png)
 
 #What is GameUnits?
