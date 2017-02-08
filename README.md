@@ -22,5 +22,5 @@ GameUnits is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
 
 -
 
-# We :heart: Pull Requests!
+# We :heart: Pull Requests!!!
 Seriously, we really do.  It doesn't matter whether you're fixing a typo or overhauling a major area of the code base.  You will be showered in :thumbsup: :thumbsup: :thumbsup:<br>
